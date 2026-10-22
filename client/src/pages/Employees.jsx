@@ -1,0 +1,5 @@
+import React from 'react';
+
+export default function Employees() {
+  return <h1 className="text-2xl font-bold">Employees Page</h1>
+}
